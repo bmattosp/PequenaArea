@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "702248137751",
+    "firebase_url": "https://pequenaarea-b0854.firebaseio.com",
+    "project_id": "pequenaarea-b0854",
+    "storage_bucket": "pequenaarea-b0854.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702248137751:android:8aa7359ffd3cf47b",
+        "android_client_info": {
+          "package_name": "pequenaarea.bmp.com.pequenaarea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702248137751-9msmmsk9d8dgprtnh5551cvk27hq8ntp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSGObl1XK1bYjRUuM2EpVUODBCSAqhTNo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
