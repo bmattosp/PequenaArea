@@ -7,7 +7,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
+        android:theme="@style/TesteDesign">
         <activity
             android:name=".activity.Login"
             android:label="Login">
@@ -17,8 +17,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.CriaUsuario"></activity>
-        <activity android:name=".activity.TelaPrincipal"></activity>
+        <activity android:name=".activity.CriaUsuario" />
+        <activity android:name=".activity.TelaPrincipal" />
+        <activity android:name=".activity.PeladaListViewActivity"></activity>
     </application>
 
 </manifest>
